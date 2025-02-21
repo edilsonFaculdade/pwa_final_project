@@ -1,0 +1,5 @@
+{ "routes": [ "path": "/",
+	"source": "pages/home/index"}],
+
+"window": {
+	"title": "PWA App" }]
